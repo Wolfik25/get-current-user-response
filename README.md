@@ -1,2 +1,2 @@
 # get-current-user-response
-/blob/main/get%20response.jpg
+[![get-response.jpg](https://i.postimg.cc/RVVFhM7w/get-response.jpg)](https://postimg.cc/yWtBrCrN)
